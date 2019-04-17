@@ -1,15 +1,14 @@
-![TIGGMI APP](https://i.ibb.co/hsh48qc/Screen-Shot-2019-04-12-at-3-58-56-PM.png)
 
 ## Table of Contents
-- [tiggmi-app](#tiggmi-app)
+- [xoss-app](#xoss-app)
 - [Installation](#installation)
 - [Dependancies](#Dependancies)
 
 
 
-## tiggmi-app
+## xoss-app
 
-This is an app for Tiggmi users. It followed the atomic design patterns of react native.
+This is an app for Xoss users. It followed the atomic design patterns of react native.
 
 ## Installation
 
